@@ -4,4 +4,5 @@ These are my learning project in machine learning having different methods and a
 <br>
 These are:-
 KNN (Breast Cancer prediction).
+<br> Multiple_regression(relation in three variables with y).
 
