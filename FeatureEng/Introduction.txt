@@ -1,0 +1,20 @@
+1. Making value Inputation
+2. Headling Catagorical values
+3.Outlinear Detection
+4. Feature Scaling
+5. Feature Selection
+6. Feature Extraction
+
+Feature Scaling is a technique to standardize the independent features present in the dataset.
+It is used to prevent features with large ranges from dominating the model.
+
+Types for Feature Scaling
+1. standardization
+2. Normalization
+    1. min max centre
+    2. L1 Normalization
+
+1. standardization
+Also known as Z-score Normalization
+It is used to scale the data to have a mean of 0 and a standard deviation of 1.
+Mean centric and scaling by deviation
